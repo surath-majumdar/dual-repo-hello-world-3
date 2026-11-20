@@ -21,7 +21,7 @@ public class DemoApplication {
             "service", "dual-repo-hello-world-3",
             "costCenter", "CC-1001",
             "status", "UP",
-            "message", "Governed Spring Boot service running on OrbStack Kubernetes"
+            "message", "Governed Spring Boot service running on OrbStack Kubernetes. this is repo 3"
         );
     }
 }
